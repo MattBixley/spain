@@ -17,3 +17,5 @@ body::before {
   opacity: 0.1; /* Adjust this value to control the transparency */
   pointer-events: none; /* This ensures the background image doesn't interfere with interactions */
 }
+
+

@@ -8,14 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+#      - about.qmd
       - posts.qmd
       - gallery/gallery.qmd
 
 format:
   html:
     theme: slate
-    backgroundcolor: "#FCDD09"
+#   mainfont: "montserrat"
     css: styles.css
     toc: true
     
