@@ -12,9 +12,13 @@ website:
       - href: index.qmd
         text: Home
 #      - about.qmd
-      - posts.qmd
-      - gallery/gallery.qmd
-      - maps/maps.qmd
+      - href: posts.qmd
+        text: Posts
+      - href: gallery/gallery.qmd
+        text: Gallery
+      - href: maps/maps.qmd
+        text: Maps
+        
     right:
       - icon: github
         href: https://github.com/MattBixley/spain
