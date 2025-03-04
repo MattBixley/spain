@@ -1,11 +1,5 @@
 ---
-title: "spain"
+title: "The Rain in Spain"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Matt & Ann go to Spain, and get lost

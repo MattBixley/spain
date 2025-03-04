@@ -1,8 +1,7 @@
 ---
-title: "Use R to generate a Quarto blogpost"
+title: "It's Booked!"
 description: |
-  The {cli} and {fs} package make life easy!
-author: Matt Bixley
+  Flights, Accomomdation it's happening
+author: Matt
 date: 2025-03-04
 ---
-

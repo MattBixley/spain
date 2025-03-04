@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "spain",
+    "title": "The Rain in Spain",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Matt & Ann go to Spain, and get lost"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Diary of Spain",
+    "section": "",
+    "text": "It’s Booked!\n\n\nFlights, Accomomdation it’s happening\n\n\n\nMatt\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
