@@ -14,7 +14,7 @@ body::before {
   background-image: url("/assets/Estelada_blava.svg.png");
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: 0.05; /* Adjust this value to control the transparency */
+  opacity: 0.5; /* Adjust this value to control the transparency */
   pointer-events: none; /* This ensures the background image doesn't interfere with interactions */
 }
 

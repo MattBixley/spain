@@ -38,14 +38,12 @@ prepare_photos(
 )
 ```
 
-![Girona Sprint Map](images/WMOC2025-Sprint-Old.pdf){fig-align="center" width="100%"}
+![Girona Sprint Map](images/WMOC2025-Sprint-Old.pdf){fig-align="center" width="100%" height="100%"}
 
-![Roques-Encantades](images/Roques-Encantades-WMOC-2025-Forest-Long.pdf){fig-align="center" width="100%"}
+![Roques-Encantades](images/Roques-Encantades-WMOC-2025-Forest-Long.pdf){fig-align="center" width="100%" height="100%}
 
-![Pals](images/Pals-Begur-WMOC-2025-Forest-Finals.pdf){fig-align="center" width="100%"}
+![Pals](images/Pals-Begur-WMOC-2025-Forest-Finals.pdf){fig-align="center" width="100%" height="100%}
 
 grab the code from here when i have some photos
 
 https://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd
-
-![](%22images/WMOC2025-Sprint-Old.pdf%22){width="100%"}
