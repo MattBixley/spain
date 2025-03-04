@@ -1,4 +1,4 @@
-﻿body{position:relative;background:linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6))}body::before{content:"";position:absolute;top:0;left:0;right:0;bottom:0;background-image:url("https://github.com/MattBixley/spain/tree/main/assets/Estelada_blava.svg.png");background-size:cover;background-repeat:no-repeat;opacity:.5;pointer-events:none}/*!
+﻿body{position:relative;background:linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6))}body::before{content:"";position:absolute;top:0;left:0;right:0;bottom:0;background-image:url("assets/Estelada_blava.svg.png");background-repeat:no-repeat;opacity:.5}/*!
  * Bootstrap  v5.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2023 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
