@@ -14,6 +14,7 @@ website:
 #      - about.qmd
       - posts.qmd
       - gallery/gallery.qmd
+      - maps/maps.qmd
     right:
       - icon: github
         href: https://github.com/MattBixley/spain
@@ -25,3 +26,4 @@ format:
     toc: true
     
 editor: visual
+
