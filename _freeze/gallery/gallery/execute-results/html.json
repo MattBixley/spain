@@ -1,0 +1,15 @@
+{
+  "hash": "1f4e4c2edd577f6af80791261ec4f171",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Gallery\"\ntitle-block-banner: true\npage-layout: full\nfreeze: true\nlightbox: auto\necho: false\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n\ngrab the code from here when i have some photos\n\nhttps://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

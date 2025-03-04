@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - posts.qmd
+      - gallery/gallery.qmd
 
 format:
   html:
