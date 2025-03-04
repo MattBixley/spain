@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -147,10 +150,46 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/WMOC2025-Sprint-Old.pdf" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="Girona Sprint Map"><embed src="images/WMOC2025-Sprint-Old.pdf" class="img-fluid quarto-figure quarto-figure-center" style="width:100.0%"></a></p>
+</figure>
+</div>
+<figcaption>Girona Sprint Map</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/Roques-Encantades-WMOC-2025-Forest-Long.pdf" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2" title="Roques-Encantades"><embed src="images/Roques-Encantades-WMOC-2025-Forest-Long.pdf" class="img-fluid quarto-figure quarto-figure-center" style="width:100.0%"></a></p>
+</figure>
+</div>
+<figcaption>Roques-Encantades</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/Pals-Begur-WMOC-2025-Forest-Finals.pdf" class="lightbox" data-gallery="quarto-lightbox-gallery-3" data-glightbox="description: .lightbox-desc-3" title="Pals"><embed src="images/Pals-Begur-WMOC-2025-Forest-Finals.pdf" class="img-fluid quarto-figure quarto-figure-center" style="width:100.0%"></a></p>
+</figure>
+</div>
+<figcaption>Pals</figcaption>
+</figure>
+</div>
 <p>grab the code from here when i have some photos</p>
 <p>https://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd</p>
+<p><a href="&quot;images/WMOC2025-Sprint-Old.pdf&quot;" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="&quot;images/WMOC2025-Sprint-Old.pdf&quot;" class="img-fluid" style="width:100.0%"></a></p>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Girona Sprint Map</span>
+<span class="glightbox-desc lightbox-desc-2">Roques-Encantades</span>
+<span class="glightbox-desc lightbox-desc-3">Pals</span>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -563,8 +602,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/MattBixley/spain/edit/main/maps/maps.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/MattBixley/spain/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer><script>var lightboxQuarto = GLightbox({"loop":false,"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom","selector":".lightbox"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/MattBixley/spain/edit/main/maps/maps.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/MattBixley/spain/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+</body></html>
