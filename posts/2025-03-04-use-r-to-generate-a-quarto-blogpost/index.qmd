@@ -1,0 +1,8 @@
+---
+title: "Use R to generate a Quarto blogpost"
+description: |
+  The {cli} and {fs} package make life easy!
+author: Matt Bixley
+date: 2025-03-04
+---
+
