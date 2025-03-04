@@ -13,7 +13,7 @@ website:
         text: Home
 #      - about.qmd
       - href: posts.qmd
-        text: Posts
+        text: Diary of Spain
       - href: gallery/gallery.qmd
         text: Gallery
       - href: maps/maps.qmd
