@@ -44,7 +44,7 @@ https://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd
 
 ## WMOC 2025 Old Maps
 
-::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));grid-gap: 1em;"}
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));grid-gap: 1em;"}
 ![Girona Sprint](images/WMOC2025-Sprint-Old.jpg){group="wmoc" width="50%"}
 
 ![Roques-Encantades](images/WMOC2025-Roques-Encantades-Old.jpg){group="mejean" width="50%"}
