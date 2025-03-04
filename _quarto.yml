@@ -27,3 +27,8 @@ format:
     
 editor: visual
 
+page-footer:
+    left: >-
+      © {{< now year >}} Matt Bixley
+      This document was created on  was last rendered {{< now date >}}
+
