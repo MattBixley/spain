@@ -20,9 +20,8 @@ website:
 
 format:
   html:
-    theme: slate
-#   mainfont: "montserrat"
-    css: styles.css
+    theme: [slate, styles.css]
+ #   mainfont: "montserrat"
     toc: true
     
 editor: visual

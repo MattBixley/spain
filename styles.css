@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 body {
   position: relative;
-  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6));
 }
 
 body::before {
@@ -14,8 +14,9 @@ body::before {
   background-image: url("/assets/Estelada_blava.svg.png");
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: 0.1; /* Adjust this value to control the transparency */
+  opacity: 0.05; /* Adjust this value to control the transparency */
   pointer-events: none; /* This ensures the background image doesn't interfere with interactions */
 }
+
 
 
