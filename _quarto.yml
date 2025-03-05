@@ -29,7 +29,7 @@ website:
 
 format:
   html:
-    theme: [slate, custom.scss]
+    theme: [slate, custom.scss, style.css]
  #   mainfont: "montserrat"
     toc: true
     

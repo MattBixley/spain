@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "The Rain in Spain",
     "section": "",
-    "text": "Matt & Ann go to Spain, and get lost"
+    "text": "Matt & Ann go to Spain and Catalunya, and get lost"
   },
   {
     "objectID": "about.html",
@@ -61,5 +61,12 @@
     "title": "Maps",
     "section": "",
     "text": "Girona Sprint\n\n\n\n\n\n\n\n\n\nRoques-Encantades\n\n\n\n\n\n\n\n\n\nPal-Begur\n\n\n\n\n\n\nGirona Sprint\nRoques-Encantades\nPal-Begur"
+  },
+  {
+    "objectID": "posts/2025-03-04-use-r-to-generate-a-quarto-blogpost/index.html",
+    "href": "posts/2025-03-04-use-r-to-generate-a-quarto-blogpost/index.html",
+    "title": "It’s Booked!",
+    "section": "",
+    "text": "Itinerary"
   }
 ]

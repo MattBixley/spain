@@ -10,9 +10,9 @@ echo: false
 ## WMOC 2025 Old Maps
 
 ::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));grid-gap: 1em;"}
-![Girona Sprint](images/WMOC2025-Sprint-Old.jpg){group="wmoc" fig-align="center" width="100%"}
+![Girona Sprint](maps/images/WMOC2025-Sprint-Old.jpg){group="wmoc" fig-align="center"}
 
-![Roques-Encantades](images/WMOC2025-Roques-Encantades-Old.jpg){group="wmoc" fig-align="center" width="100%"}
+![Roques-Encantades](maps/images/WMOC2025-Roques-Encantades-Old.jpg){group="wmoc" fig-align="center"}
 
-![Pal-Begur](images/WMOC2025-Pals-Begur-Old.jpg){group="wmoc" fig-align="center" width="100%"}
+![Pal-Begur](maps/images/WMOC2025-Pals-Begur-Old.jpg){group="wmoc" fig-align="center"}
 :::
