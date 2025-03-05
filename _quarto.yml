@@ -7,6 +7,7 @@ website:
   site-url: "https://mattbixley.github.io/spain/"
   repo-url: "https://github.com/MattBixley/spain"
   repo-actions: [edit, issue]
+  open-graph: true
 
   page-footer: 
     left: "© {{< now year >}} Matt Bixley "
