@@ -3,10 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "spain"
+  title: "Adventures in Spain"
   site-url: "https://mattbixley.github.io/spain/"
   repo-url: "https://github.com/MattBixley/spain"
   repo-actions: [edit, issue]
+
+  page-footer: 
+    left: "© {{< now year >}} Matt Bixley "
+    right: 
+      - "Built with Quarto and Github"
+      - icon: github
+        href: https://github.com/MattBixley/spain
+
   navbar:
     left:
       - href: index.qmd
@@ -18,14 +26,10 @@ website:
         text: Gallery
       - href: maps/maps.qmd
         text: Maps
-        
-    right:
-      - icon: github
-        href: https://github.com/MattBixley/spain
 
 format:
   html:
-    theme: [slate, styles.css]
+    theme: [slate, custom.scss]
  #   mainfont: "montserrat"
     toc: true
     
