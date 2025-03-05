@@ -7,10 +7,6 @@ lightbox: auto
 echo: false
 ---
 
-grab the code from here when i have some photos
-
-https://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd
-
 ## WMOC 2025 Old Maps
 
 ::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));grid-gap: 1em;"}

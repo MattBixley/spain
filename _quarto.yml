@@ -22,9 +22,9 @@ website:
 #      - about.qmd
       - href: posts.qmd
         text: Diary of Spain
-      - href: gallery/gallery.qmd
+      - href: gallery.qmd
         text: Gallery
-      - href: maps/maps.qmd
+      - href: maps.qmd
         text: Maps
 
 format:
