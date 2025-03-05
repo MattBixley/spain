@@ -1,7 +1,14 @@
 ---
 title: "The Rain in Spain"
+image: "assets/profile.jpg"
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/MattBixley/spain
 ---
 
-![](assets/profile.jpg){style="image-shape: round" fig-align="center" width="50%"}
 
 Matt & Ann go to Spain and Catalunya, and get lost
