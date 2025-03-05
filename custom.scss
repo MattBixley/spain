@@ -19,13 +19,13 @@ body::before {
 }
 
 //Sass Variables
-$theme-lightgreen: #eeffee;
-$theme-green: darkgreen;
+$theme-lightgrey: lightgrey;
+$theme-grey: grey;
 $theme-black: black;
 
 /*Colors*/
-$body-bg: $theme-lightgreen;
-$body-color: $theme-green;
+$body-bg: $theme-lightgrey;
+$body-color: $theme-grey;
 $body-link-color: $theme-black;
 
 /*Fonts*/
@@ -40,5 +40,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar {
-  color: $theme-green;
+  color: $theme-grey;
 }

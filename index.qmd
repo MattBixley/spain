@@ -2,6 +2,6 @@
 title: "The Rain in Spain"
 ---
 
-![](assets/profile.jpg){style="image-shape: round"}
+![](assets/profile.jpg){style="image-shape: round" fig-align="center" width="50%"}
 
 Matt & Ann go to Spain and Catalunya, and get lost
