@@ -1,6 +1,3 @@
-Sure, here's a draft for your README:
-
-```markdown
 # Spain Travel Log
 
 Welcome to our Spanish Travel Log! This repository contains all the information and resources related to our travels through Spain. We document our experiences, share travel tips, and provide useful resources for anyone planning their own trip to Spain.
