@@ -5,6 +5,9 @@ about:
   template: jolla
   image-shape: round
   links:
+    - icon: calendar4-week
+      text: "Itinerary"
+      href: "posts/2025-03-07-itinerary/index.qmd"
     - icon: github
       text: "GitHub"
       href: https://github.com/MattBixley/spain
