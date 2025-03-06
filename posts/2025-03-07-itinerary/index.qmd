@@ -9,7 +9,7 @@ date: 2025-03-07
 Rough plan of where we are and what we are doing in Spain and Catalunya in July and August 2025.
 
 | When | Where | What | Link |
-|-----------------|---------------------|------------------|-----------------|
+|----|----|----|----|
 | July 1st - 3rd | Madrid | Tourists |  |
 |  | Quintanar de la Sierra | WRC | [wrc2025.org](https://wrc2025.org/) |
 | July 7th - August 18th | Girona | Work |  |
