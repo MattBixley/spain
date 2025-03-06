@@ -1,0 +1,18 @@
+---
+title: "Itinerary"
+description: Where are we
+  
+author: Matt Bixley
+date: 2025-03-07
+---
+
+Rough plan of where we are and what we are doing in Spain and Catalunya in July and August 2025.
+
+| When | Where | What | Link |
+|-----------------|---------------------|------------------|-----------------|
+| July 1st - 3rd | Madrid | Tourists |  |
+|  | Quintanar de la Sierra | WRC | [wrc2025.org](https://wrc2025.org/) |
+| July 7th - August 18th | Girona | Work |  |
+|  | Girona | GOW |  |
+| August 8th-15th | Girona | WMOC | [wmoc2025.com](https://www.wmoc2025.com/) |
+| August 21st | Hong Kong | Tourists |  |

@@ -1,9 +1,0 @@
----
-title: "It's Booked!"
-description: |
-  Flights, Accomomdation it's happening
-author: Matt
-date: 2025-03-04
----
-
-# Itinerary
