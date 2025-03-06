@@ -1,5 +1,6 @@
 ---
 title: "The Rain in Spain"
+subtitle: "La Pluja a Espanya"
 image: "assets/profile.jpg"
 about:
   template: jolla
@@ -13,6 +14,6 @@ about:
       href: https://github.com/MattBixley/spain
 ---
 
-Matt & Ann go to Spain and Catalunya, and get lost.\
+Matt & Ann go to Espanya and Catalunya, and get lost.\
 \
 July and August 2025 we travelled to Spain for the World Rogainging Championship and the Wolrd Masters Orienteering Championship. In between we decided to live and work from Girona, Catalunya for 6 weeks and experience all the things.
