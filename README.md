@@ -42,6 +42,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, please contact us at [your-email@example.com].
 
-```
-
-Feel free to modify this template to better fit your needs!
