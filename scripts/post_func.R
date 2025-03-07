@@ -4,9 +4,11 @@ new_post <- function(
     description = "",
     author = "Matt Bixley", 
     date = Sys.Date(), 
+    categories = "",
     draft = FALSE, 
     title_limit = 40,
     open_file = TRUE
+
 ){
   
   # convert to kebab case and remove non space or alphanumeric characters
@@ -48,7 +50,9 @@ new_post <- function(
     "description: |",
     glue::glue('  {description}'),
     glue::glue("author: {author}"),
-    glue::glue("date: {date}")
+    glue::glue("date: {date}"),
+    "categories: |",
+    glue::glue('  {categories}')
   )
   
   # add draft if draft
