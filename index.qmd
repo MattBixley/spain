@@ -8,7 +8,7 @@ about:
   links:
     - icon: calendar4-week
       text: "Itinerary"
-      href: "https://mattbixley.github.io/spain/posts/2025-03-07-itinerary/index.html"
+      href: https://mattbixley.github.io/spain/posts/2025-03-07-itinerary/index.html
     - icon: github
       text: "GitHub"
       href: https://github.com/MattBixley/spain
