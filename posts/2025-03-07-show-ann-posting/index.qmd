@@ -1,0 +1,12 @@
+---
+title: "show ann posting"
+description: showung annie how to post
+  
+author: Matt Bixley
+date: 2025-03-07
+categories:
+  - about 
+  - news
+---
+
+write some text
