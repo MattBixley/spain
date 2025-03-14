@@ -72,7 +72,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <meta property="og:title" content="Adventures in Spain - Maps">
-<meta property="og:description" content="">
 <meta property="og:site_name" content="Adventures in Spain">
 </head>
 
@@ -142,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#wmoc-2025-old-maps" id="toc-wmoc-2025-old-maps" class="nav-link active" data-scroll-target="#wmoc-2025-old-maps">WMOC 2025 Old Maps</a></li>
-  <li><a href="#schools-series---taieri-college" id="toc-schools-series---taieri-college" class="nav-link" data-scroll-target="#schools-series---taieri-college">Schools Series - Taieri College</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   </ul>
 </nav>
     </div>
@@ -188,39 +187,14 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="schools-series---taieri-college" class="level2">
-<h2 class="anchored" data-anchor-id="schools-series---taieri-college">Schools Series - Taieri College</h2>
-<p>Hard Course Part 1 and Part 2</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));grid-gap: 1em;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="maps/SS2_Hard1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-gallery="ss2" title="Part 1"><img src="maps/SS2_Hard1.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Part 1"></a></p>
-</figure>
-</div>
-<figcaption>Part 1</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="maps/SS2_Hard2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-5" data-gallery="ss2" title="Part 2"><img src="maps/SS2_Hard2.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Part 2"></a></p>
-</figure>
-</div>
-<figcaption>Part 2</figcaption>
-</figure>
-</div>
-</div>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
 
 
 <div class="hidden" aria-hidden="true">
 <span class="glightbox-desc lightbox-desc-1">Girona Sprint</span>
 <span class="glightbox-desc lightbox-desc-2">Roques-Encantades</span>
 <span class="glightbox-desc lightbox-desc-3">Pal-Begur</span>
-<span class="glightbox-desc lightbox-desc-4">Part 1</span>
-<span class="glightbox-desc lightbox-desc-5">Part 2</span>
 </div>
 </section>
 
@@ -658,7 +632,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","descPosition":"bottom","selector":".lightbox","closeEffect":"zoom","loop":false});
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","openEffect":"zoom","loop":false,"closeEffect":"zoom","selector":".lightbox"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

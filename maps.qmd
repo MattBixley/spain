@@ -17,4 +17,4 @@ echo: false
 ![Pal-Begur](maps/WMOC2025-Pals-Begur-Old.jpg){group="wmoc" fig-align="center"}
 :::
 
-##
+## 
