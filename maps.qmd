@@ -17,12 +17,4 @@ echo: false
 ![Pal-Begur](maps/WMOC2025-Pals-Begur-Old.jpg){group="wmoc" fig-align="center"}
 :::
 
-## Schools Series - Taieri College 
-
-Hard Course Part 1 and Part 2
-
-::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));grid-gap: 1em;"}
-![Part 1](maps/SS2_Hard1.jpg){group="ss2" fig-align="center"}
-
-![Part 2](maps/SS2_Hard2.jpg){group="ss2" fig-align="center"}
-:::
+##
