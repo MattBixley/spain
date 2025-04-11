@@ -1,7 +1,7 @@
 ---
 title: "The Rain in Spain"
 subtitle: "La Pluja a Espanya"
-image: "assets/profile.jpg"
+image: "assets/Flag_of_Spain.svg"
 about:
   template: jolla
   image-shape: round
