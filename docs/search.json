@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Rain in Spain",
-    "section": "",
-    "text": "Matt & Ann go to Espanya and Catalunya, and get lost.\n\nJuly and August 2025 we travel to Spain for the World Rogaining Championships and the World Masters Orienteering Championships. In between we’ve decided to live and work from Girona, Catalunya for 6 weeks and experience all the things."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,74 +7,18 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Diary of Spain",
-    "section": "",
-    "text": "Itinerary\n\n\n\nabout\n\n\ninfo\n\n\nitinerary\n\n\n\nWhere are we\n\n\n\nMatt Bixley\n\n\nMar 7, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "gallery/gallery.html",
-    "href": "gallery/gallery.html",
-    "title": "Gallery",
-    "section": "",
-    "text": "grab the code from here when i have some photos\nhttps://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd"
-  },
-  {
-    "objectID": "maps/maps.html",
-    "href": "maps/maps.html",
-    "title": "Maps",
-    "section": "",
-    "text": "grab the code from here when i have some photos\nhttps://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd"
-  },
-  {
-    "objectID": "maps/maps.html#wmoc-2025-old-maps",
-    "href": "maps/maps.html#wmoc-2025-old-maps",
-    "title": "Maps",
-    "section": "WMOC 2025 Old Maps",
-    "text": "WMOC 2025 Old Maps\n\n\n\n\n\n\n\n\nGirona Sprint\n\n\n\n\n\n\n\n\n\nRoques-Encantades\n\n\n\n\n\n\n\n\n\nPal-Begur\n\n\n\n\n\n\nGirona Sprint\nRoques-Encantades\nPal-Begur"
-  },
-  {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "Gallery",
-    "section": "",
-    "text": "grab the code from here when i have some photos\nhttps://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd"
-  },
-  {
     "objectID": "maps.html",
     "href": "maps.html",
     "title": "Maps",
     "section": "",
-    "text": "Girona Sprint\n\n\n\n\n\n\n\n\n\nRoques-Encantades\n\n\n\n\n\n\n\n\n\nPal-Begur"
+    "text": "Girona Sprint\n\n\n\n\n\n\n\n\n\nRoques-Encantades\n\n\n\n\n\n\n\n\n\nPal-Begur\n\n\n\n\n\n\n\n\n\nCan-Villalonga"
   },
   {
     "objectID": "maps.html#wmoc-2025-old-maps",
     "href": "maps.html#wmoc-2025-old-maps",
     "title": "Maps",
     "section": "",
-    "text": "Girona Sprint\n\n\n\n\n\n\n\n\n\nRoques-Encantades\n\n\n\n\n\n\n\n\n\nPal-Begur"
-  },
-  {
-    "objectID": "posts/2025-03-04-use-r-to-generate-a-quarto-blogpost/index.html",
-    "href": "posts/2025-03-04-use-r-to-generate-a-quarto-blogpost/index.html",
-    "title": "It’s Booked!",
-    "section": "",
-    "text": "Itinerary"
-  },
-  {
-    "objectID": "qmd/maps.html",
-    "href": "qmd/maps.html",
-    "title": "Maps",
-    "section": "",
-    "text": "Girona Sprint\n\n\n\n\n\n\n\n\n\nRoques-Encantades\n\n\n\n\n\n\n\n\n\nPal-Begur\n\n\n\n\n\n\nGirona Sprint\nRoques-Encantades\nPal-Begur"
-  },
-  {
-    "objectID": "qmd/maps.html#wmoc-2025-old-maps",
-    "href": "qmd/maps.html#wmoc-2025-old-maps",
-    "title": "Maps",
-    "section": "",
-    "text": "Girona Sprint\n\n\n\n\n\n\n\n\n\nRoques-Encantades\n\n\n\n\n\n\n\n\n\nPal-Begur\n\n\n\n\n\n\nGirona Sprint\nRoques-Encantades\nPal-Begur"
+    "text": "Girona Sprint\n\n\n\n\n\n\n\n\n\nRoques-Encantades\n\n\n\n\n\n\n\n\n\nPal-Begur\n\n\n\n\n\n\n\n\n\nCan-Villalonga"
   },
   {
     "objectID": "posts/2025-03-07-itinerary/index.html",
@@ -91,38 +28,24 @@
     "text": "Rough plan of where we are and what we are doing in Spain and Catalunya in July and August 2025.\n\n\n\nWhen\nWhere\nWhat\nLink\n\n\n\n\nJuly 1st-3rd\nMadrid\nTourists\n\n\n\n\nQuintanar de la Sierra\nWorld Rogaine Championships\nwrc2025.org\n\n\nJuly 7th-August 18th\nGirona\nWork\n\n\n\nJuly 18th/19th\nLoudenvielle\nStage 13/14 Tour de France\nStage 14\n\n\nJuly 28th-August 3rd\nGirona\nGirona O Week\naligots.cat/gow/\n\n\nAugust 8th-15th\nGirona\nWorld Masters Orienteering Championships\nwmoc2025.com\n\n\nAugust 21st\nHong Kong\nTourists"
   },
   {
-    "objectID": "posts/2025-03-07-cats-post/index.html",
-    "href": "posts/2025-03-07-cats-post/index.html",
-    "title": "cats post",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Diary of Spain",
     "section": "",
-    "text": "test post about cats"
+    "text": "Itinerary\n\n\n\nabout\n\ninfo\n\nitinerary\n\n\n\nWhere are we\n\n\n\nMatt Bixley\n\n\nMar 7, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2025-03-07-new-test-again/index.html",
-    "href": "posts/2025-03-07-new-test-again/index.html",
-    "title": "new test again",
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
     "section": "",
-    "text": "this is a new post"
+    "text": "grab the code from here when i have some photos\nhttps://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd"
   },
   {
-    "objectID": "posts/2025-03-07-show-ann-posting/index.html",
-    "href": "posts/2025-03-07-show-ann-posting/index.html",
-    "title": "show ann posting",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Rain in Spain",
     "section": "",
-    "text": "write some text"
-  },
-  {
-    "objectID": "maps.html#schools-series---taieri-college",
-    "href": "maps.html#schools-series---taieri-college",
-    "title": "Maps",
-    "section": "Schools Series - Taieri College",
-    "text": "Schools Series - Taieri College\nHard Course Part 1 and Part 2\n\n\n\n\n\n\n\n\nPart 1\n\n\n\n\n\n\n\n\n\nPart 2\n\n\n\n\n\n\nGirona Sprint\nRoques-Encantades\nPal-Begur\nPart 1\nPart 2"
-  },
-  {
-    "objectID": "maps.html#section",
-    "href": "maps.html#section",
-    "title": "Maps",
-    "section": "",
-    "text": "Girona Sprint\nRoques-Encantades\nPal-Begur"
+    "text": "Matt & Ann go to Espanya and Catalunya, and get lost.\n\nJuly and August 2025 we travel to Spain for the World Rogaining Championships and the World Masters Orienteering Championships. In between we’ve decided to live and work from Girona, Catalunya for 6 weeks and experience all the things."
   }
 ]
