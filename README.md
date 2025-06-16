@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MattBixley/spain)
+
 # Spain Travel Log
 
 Welcome to our Spanish Travel Log! This repository contains all the information and resources related to our travels through Spain. We document our experiences, share travel tips, and provide useful resources for anyone planning their own trip to Spain.
