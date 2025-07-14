@@ -1,0 +1,27 @@
+---
+title: "Maps"
+title-block-banner: true
+page-layout: full
+freeze: true
+lightbox: auto
+echo: false
+---
+
+## WMOC 2025 Old Maps
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));grid-gap: 1em;"}
+![Girona Sprint](maps/WMOC2025-Sprint-Old.jpg){group="wmoc" fig-align="center"}
+
+![Roques-Encantades](maps/WMOC2025-Roques-Encantades-Old.jpg){group="wmoc" fig-align="center"}
+
+![Pal-Begur](maps/WMOC2025-Pals-Begur-Old.jpg){group="wmoc" fig-align="center"}
+
+![Can-Villalonga](maps/WMOC2025-Can-Villalonga.jpg){group="wmoc" fig-align="center"}
+:::
+
+
+## World Rogaine Champs 2025
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));grid-gap: 1em;"}
+![WRC 2025](maps/WRC2025.jpg){group="wrc" fig-align="center"}
+:::

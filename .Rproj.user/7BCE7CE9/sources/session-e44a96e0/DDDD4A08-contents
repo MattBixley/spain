@@ -1,0 +1,56 @@
+---
+title: "Gallery"
+title-block-banner: true
+page-layout: full
+freeze: true
+lightbox: auto
+echo: false
+---
+
+## Madrid
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+![Plaza Major](gallery/IMG_3432.jpg){group="madrid" fig-align="center"}
+
+![Horse](gallery/IMG_3438.jpg){group="madrid" fig-align="center"}
+
+![Churros](gallery/IMG_3442.jpg){group="madrid" fig-align="center"}
+
+![Market Food](gallery/IMG_3443.jpg){group="madrid" fig-align="center"}
+
+![Market Food](gallery/IMG_3444.jpg){group="madrid" fig-align="center"}
+
+![](gallery/IMG_3458.jpg){group="madrid" fig-align="center"}
+
+![](gallery/IMG_3461.jpg){group="madrid" fig-align="center"}
+
+![](gallery/IMG_3464.jpg){group="madrid" fig-align="center"}
+
+![Madrid Cathedral](gallery/IMG_5292-Pano.jpg){group="madrid" fig-align="center"}
+
+![Madrid Cathedral Dome](gallery/IMG_3455.jpg){group="madrid" fig-align="center"}
+
+![Palace Real](gallery/IMG_5298.jpg){group="madrid" fig-align="center"}
+
+![](gallery/IMG_5283.jpg){group="madrid" fig-align="center"}
+![](gallery/IMG_5286.jpg){group="madrid" fig-align="center"}
+![](gallery/IMG_5287.jpg){group="madrid" fig-align="center"}
+![](gallery/IMG_5288.jpg){group="madrid" fig-align="center"}
+![](gallery/IMG_5300.jpg){group="madrid" fig-align="center"}
+
+![](gallery/IMG_5302.jpg){group="madrid" fig-align="center"}
+:::
+
+## Rogaine World Champs
+Quintanar de la Sierra
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+![WRC Map](gallery/IMG_E3474.jpg){group="madrid" fig-align="center"}
+![Control #36](gallery/IMG_3480.jpg){group="madrid" fig-align="center"}
+![Model Map](gallery/IMG_3476.jpg){group="madrid" fig-align="center"}
+![Necropolis](gallery/IMG_3479.jpg){group="madrid" fig-align="center"}
+![Dinosaur Footprints](gallery/IMG_3483.jpg){group="madrid" fig-align="center"}
+![Dinosaur Footprints](gallery/IMG_3486.jpg){group="madrid" fig-align="center"}
+:::
+
+## Girona Week 1
