@@ -1,0 +1,12 @@
+---
+title: "Gallery"
+title-block-banner: true
+page-layout: full
+freeze: true
+lightbox: auto
+echo: false
+---
+
+grab the code from here when i have some photos
+
+https://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd

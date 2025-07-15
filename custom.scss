@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+body {
+  position: relative;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6));
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("assets/Estelada.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.1; /* Adjust this value to control the transparency */
+  pointer-events: none; /* This ensures the background image doesn't interfere with interactions */
+}
+
+//Sass Variables
+$theme-lightgrey: lightgrey;
+$theme-grey: grey;
+$theme-black: black;
+
+/*Colors*/
+$body-bg: $theme-lightgrey;
+$body-color: $theme-grey;
+$body-link-color: $theme-black;
+
+/*Fonts*/
+$font-family-sans-serif: 'Montserrat', sans-serif;
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-sans-serif;
+  font-weight: 700;
+  color: $theme-black;
+}
+
+.navbar {
+  color: $theme-grey;
+}

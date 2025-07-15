@@ -1,0 +1,15 @@
+{
+  "hash": "f7e54071dbcbcf334fe0345b13fb7e27",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Maps\"\ntitle-block-banner: true\npage-layout: full\nfreeze: true\nlightbox: auto\necho: false\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n\ngrab the code from here when i have some photos\n\nhttps://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd\n\n## WMOC 2025 Old Maps\n\n::: {style=\"display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));grid-gap: 1em;\"}\n![Girona Sprint](images/WMOC2025-Sprint-Old.jpg){group=\"wmoc\" width=\"50%\"}\n\n![Roques-Encantades](images/WMOC2025-Roques-Encantades-Old.jpg){group=\"mejean\" width=\"50%\"}\n\n![Pal-Begur](images/WMOC2025-Pals-Begur-Old.jpg){group=\"wmoc\" width=\"50%\"}\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
