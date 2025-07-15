@@ -7,6 +7,44 @@ lightbox: auto
 echo: false
 ---
 
-grab the code from here when i have some photos
+# Madrid
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));grid-gap: 1em;"}
+![Plaza Mayor](gallery/IMG_3432.jpg){group="madrid" fig-align="center"}
+![Plaza Mayor](gallery/IMG_3438.jpg){group="madrid" fig-align="center"}
+![Churros y Porras](gallery/IMG_3442.jpg){group="madrid" fig-align="center"}
+![Mercado de San Miguel](gallery/IMG_3443.jpg){group="madrid" fig-align="center"}
+![Mercado de San Miguel](gallery/IMG_3444.jpg){group="madrid" fig-align="center"}
+![Honest Greensl](gallery/IMG_3466.jpg){group="madrid" fig-align="center"}
+![Palacio Real de Madrid](gallery/IMG_5291.jpg){group="madrid" fig-align="center"}
 
-https://github.com/rfsaldanha/rfsaldanha.github.io/blob/main/photos/photos.qmd
+![Palacio Real de Madrid](gallery/IMG_5298.jpg){group="madrid" fig-align="center"}
+![Solemn Changing of the Guard](gallery/IMG_5283.jpg){group="madrid" fig-align="center"}
+
+![Solemn Changing of the Guard](gallery/IMG_5286.jpg){group="madrid" fig-align="center"}
+
+![Solemn Changing of the Guard](gallery/IMG_5287.jpg){group="madrid" fig-align="center"}
+
+![Solemn Changing of the Guard](gallery/IMG_5288.jpg){group="madrid" fig-align="center"}
+![Catedral de Santa María la Real de la Almudena](gallery/IMG_5292-Pano.jpg){group="madrid" fig-align="center"}
+![Catedral de Santa María la Real de la Almudena](gallery/IMG_3455.jpg){group="madrid" fig-align="center"}
+![El Retiro Park](gallery/IMG_3461.jpg){group="madrid" fig-align="center"}
+![Park](gallery/IMG_3458.jpg){group="madrid" fig-align="center"}
+![El Retiro Park](gallery/IMG_3461.jpg){group="madrid" fig-align="center"}
+![Goya](gallery/IMG_3464.jpg){group="madrid" fig-align="center"}
+
+:::
+
+# Quintanar de la Sierra (Rogaine)
+![Rogaine Model Map](gallery/IMG_3476.jpg){group="rogaine" fig-align="center"}
+![Control 36](gallery/IMG_3480.jpg){group="rogaine" fig-align="center"}
+![Necropolis](gallery/IMG_3479.jpg){group="rogaine" fig-align="center"}
+![Dinosaurs](gallery/IMG_3487.jpg){group="rogaine" fig-align="center"}
+![Dinosaurs](gallery/IMG_3483.jpg){group="rogaine" fig-align="center"}
+
+# Girona Week 1
+![Onyr](gallery/IMG_3531.jpg){group="girona" fig-align="center"}
+![Caputxins Fort](gallery/IMG_5323.jpg){group="girona"
+![Caputxins Fort](gallery/IMG_5325.jpg){group="girona"fig-align="center"}
+![Caputxins Fort](gallery/IMG_5326.jpg){group="girona"fig-align="center"}
+![Torre de la Ciutat](gallery/IMG_5327.jpg){group="girona"fig-align="center"}
+
