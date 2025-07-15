@@ -67,7 +67,7 @@
     "href": "gallery.html",
     "title": "Gallery",
     "section": "",
-    "text": "Madrid\n\n\n\n\n\n\n\n\nPlaza Mayor\n\n\n\n\n\n\n\n\n\nPlaza Mayor\n\n\n\n\n\n\n\n\n\nChurros y Porras\n\n\n  \n\n\n\n\n\n\n\nPalacio Real de Madrid\n\n\n\n\n\n\n\n\n\nPalacio Real de Madrid\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nCatedral de Santa María la Real de la Almudena\n\n\n\n\n\n\n\n\n\nCatedral de Santa María la Real de la Almudena\n\n\n\n\n\n\n\n\n\nEl Retiro Park\n\n\n\n\n\n\n\n\n\nPark\n\n\n\n\n\n\n\n\n\nEl Retiro Park\n\n\n\n\n\n\n\n\n\nGoya\n\n\n\n\n\nQuintanar de la Sierra (Rogaine)\n\n\n\n\n\n\n\n\nRogaine Model Map\n\n\n\n\n\n\n\n\n\nControl 36\n\n\n\n\n\n\n\n\n\nNecropolis\n\n\n\n\n\n\n\n\n\nDinosaurs\n\n\n\n\n\n\n\n\n\nDinosaurs\n\n\n\n\n\nGirona Week 1\n\n\n\n\n\n\n\n\nOnyr\n\n\n{group=“girona” \n\n\n\n\n\n\n\nCaputxins Fort\n\n\n\n\n\n\n\n\n\nTorre de la Ciutat"
+    "text": "Plaza Mayor\n\n\n\n\n\n\n\n\n\nPlaza Mayor\n\n\n\n\n\n\n\n\n\nChurros y Porras\n\n\n\n\n\n\n\n\n\nMercado de San Miguel\n\n\n\n\n\n\n\n\n\nMercado de San Miguel\n\n\n\n\n\n\n\n\n\nHonest Greensl\n\n\n\n\n\n\n\n\n\nPalacio Real de Madrid\n\n\n\n\n\n\n\n\n\nPalacio Real de Madrid\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nCatedral de Santa María la Real de la Almudena\n\n\n\n\n\n\n\n\n\nCatedral de Santa María la Real de la Almudena\n\n\n\n\n\n\n\n\n\nEl Retiro Park\n\n\n\n\n\n\n\n\n\nPark\n\n\n\n\n\n\n\n\n\nEl Retiro Park\n\n\n\n\n\n\n\n\n\nGoya"
   },
   {
     "objectID": "index.html",
@@ -75,5 +75,33 @@
     "title": "The Rain in Spain",
     "section": "",
     "text": "Matt & Ann go to Espanya and Catalunya, and get lost.\n\nJuly and August 2025 we travel to Spain for the World Rogaining Championships and the World Masters Orienteering Championships. In between we’ve decided to live and work from Girona, Catalunya for 6 weeks and experience all the things."
+  },
+  {
+    "objectID": "gallery.html#madrid",
+    "href": "gallery.html#madrid",
+    "title": "Gallery",
+    "section": "",
+    "text": "Plaza Mayor\n\n\n\n\n\n\n\n\n\nPlaza Mayor\n\n\n\n\n\n\n\n\n\nChurros y Porras\n\n\n\n\n\n\n\n\n\nMercado de San Miguel\n\n\n\n\n\n\n\n\n\nMercado de San Miguel\n\n\n\n\n\n\n\n\n\nHonest Greensl\n\n\n\n\n\n\n\n\n\nPalacio Real de Madrid\n\n\n\n\n\n\n\n\n\nPalacio Real de Madrid\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nSolemn Changing of the Guard\n\n\n\n\n\n\n\n\n\nCatedral de Santa María la Real de la Almudena\n\n\n\n\n\n\n\n\n\nCatedral de Santa María la Real de la Almudena\n\n\n\n\n\n\n\n\n\nEl Retiro Park\n\n\n\n\n\n\n\n\n\nPark\n\n\n\n\n\n\n\n\n\nEl Retiro Park\n\n\n\n\n\n\n\n\n\nGoya"
+  },
+  {
+    "objectID": "gallery.html#quintanar-de-la-sierra-rogaine",
+    "href": "gallery.html#quintanar-de-la-sierra-rogaine",
+    "title": "Gallery",
+    "section": "Quintanar de la Sierra (Rogaine)",
+    "text": "Quintanar de la Sierra (Rogaine)\n\n\n\n\n\n\n\n\nRogaine Model Map\n\n\n\n\n\n\n\n\n\nControl 36\n\n\n\n\n\n\n\n\n\nNecropolis\n\n\n\n\n\n\n\n\n\nDinosaurs\n\n\n\n\n\n\n\n\n\nDinosaurs"
+  },
+  {
+    "objectID": "gallery.html#girona-week-1",
+    "href": "gallery.html#girona-week-1",
+    "title": "Gallery",
+    "section": "Girona Week 1",
+    "text": "Girona Week 1\n\n\n\n\n\n\n\n\nOnyr\n\n\n{group=“girona” \n\n\n\n\n\n\n\nCaputxins Fort\n\n\n\n\n\n\n\n\n\nTorre de la Ciutat\n\n\n\n\n\n\n\n\n\nCobbles"
+  },
+  {
+    "objectID": "maps.html#th-world-rogaining-championships",
+    "href": "maps.html#th-world-rogaining-championships",
+    "title": "Maps",
+    "section": "19th World Rogaining Championships",
+    "text": "19th World Rogaining Championships\n\n\n\n\n\n\n\n\n19th World Rogaine Championships"
   }
 ]

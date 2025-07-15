@@ -19,7 +19,7 @@ echo: false
 ![Can-Villalonga](maps/WMOC2025-Can-Villalonga.jpg){group="wmoc" fig-align="center"}
 :::
 
-## 
+## 19th World Rogaining Championships
 
 ::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));grid-gap: 1em;"}
 ![19th World Rogaine Championships](maps/WRC2025.jpg){group="WRC2025" fig-align="center"}
