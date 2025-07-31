@@ -24,3 +24,17 @@ echo: false
 ::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));grid-gap: 1em;"}
 ![19th World Rogaine Championships](maps/WRC2025.jpg){group="WRC2025" fig-align="center"}
 :::
+
+## Girona O Week
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));grid-gap: 1em;"}
+![Day1 - 1](maps/IMG_3709.jpg){group="gow" fig-align="center"}
+
+![Day1 - 2](maps/IMG_3710.jpg){group="gow" fig-align="center"}
+
+![Day2](maps/IMG_3719.jpg){group="gow" fig-align="center"}
+
+![Day3 - 1](maps/IMG_3724.jpg){group="gow" fig-align="center"}
+
+![Day3 - 2](maps/IMG_3725.jpg){group="gow" fig-align="center"}
+:::
