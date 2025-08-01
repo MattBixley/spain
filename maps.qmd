@@ -37,4 +37,8 @@ echo: false
 ![Day3 - 1](maps/IMG_3724.jpg){group="gow" fig-align="center"}
 
 ![Day3 - 2](maps/IMG_3725.jpg){group="gow" fig-align="center"}
+
+![Day4 - 1](maps/IMG_3735.jpg){group="gow" fig-align="center"}
+
+![Day4 - 2](maps/IMG_3736.jpg){group="gow" fig-align="center"}
 :::
