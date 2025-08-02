@@ -41,4 +41,8 @@ echo: false
 ![Day4 - 1](maps/IMG_3735.jpg){group="gow" fig-align="center"}
 
 ![Day4 - 2](maps/IMG_3736.jpg){group="gow" fig-align="center"}
+
+![Day5 - 1](maps/IMG_3753.jpg){group="gow" fig-align="center"}
+
+![Day5 - 2](maps/IMG_3754.jpg){group="gow" fig-align="center"}
 :::
