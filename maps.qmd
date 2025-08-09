@@ -54,3 +54,14 @@ echo: false
 
 ![Day7 - 2](maps/IMG_3821.jpg){group="gow" fig-align="center"}
 :::
+
+## World Masters Orienteering Championships
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));grid-gap: 1em;"}
+![WMOC: M50-1](maps/IMG_3831.jpg){group="wmoc" fig-align="center"}
+
+![WMOC: M50-1, Start](maps/IMG_3831_fort.jpg){group="wmoc" fig-align="center"}
+
+![WMOC: M50-1, Middle section](maps/IMG_3831_middle.jpg){group="wmoc" fig-align="center"}
+:::
+
