@@ -65,5 +65,7 @@ echo: false
 ![WMOC: M50-1, Middle section](maps/IMG_3831_middle.jpg){group="wmoc" fig-align="center"}
 
 ![WMOC: M50-1, Forest Qual](maps/IMG_E3869.jpg){group="wmoc" fig-align="center"}
+
+![WMOC: M50a, Middle Final](maps/IMG_3875.jpg){group="wmoc" fig-align="center"}
 :::
 
