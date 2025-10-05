@@ -38,6 +38,11 @@ jobs:
       - name: Render
         run: quarto render
 
+      - name: Ensure .nojekyll exists
+        run: |
+          touch docs/.nojekyll
+          echo "Created .nojekyll file in docs directory"
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
