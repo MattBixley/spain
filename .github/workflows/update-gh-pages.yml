@@ -1,0 +1,45 @@
+name: Update gh-pages branch
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  update-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: latest
+
+      - name: Render site
+        run: quarto render
+
+      - name: Checkout gh-pages
+        run: |
+          git fetch origin gh-pages:gh-pages
+          git checkout gh-pages
+
+      - name: Update gh-pages with rendered content
+        run: |
+          # Remove all files except .git
+          find . -not -path './.git*' -not -path './docs*' -delete
+          # Copy rendered content
+          cp -r ../docs/* .
+          # Ensure .nojekyll exists
+          touch .nojekyll
+
+      - name: Commit and push to gh-pages
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "Update site from main branch [skip ci]"
+          git push origin gh-pages
