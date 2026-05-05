@@ -21,30 +21,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup R
-        uses: r-lib/actions/setup-r@v2
-        with:
-          r-version: '4.5'
-
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: 1.8.25
-
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libpng-dev libssl-dev
-
-      - name: Install R dependencies
-        run: |
-          Rscript -e "
-            pkgs <- c('knitr', 'rmarkdown')
-            install.packages(pkgs, repos = 'https://cran.r-project.org', dependencies = c('Depends', 'Imports', 'LinkingTo'))
-            missing <- pkgs[!sapply(pkgs, requireNamespace, quietly = TRUE)]
-            if (length(missing) > 0) stop(paste('Failed to install packages:', paste(missing, collapse = ', ')))
-            message('All packages installed successfully')
-          "
 
       - name: Render
         run: quarto render
