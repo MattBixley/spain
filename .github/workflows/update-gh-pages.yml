@@ -24,15 +24,10 @@ jobs:
         with:
           version: 1.8.25
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libpng-dev libmagick++-dev libcurl4-openssl-dev libssl-dev libxml2-dev libimage-exiftool-perl
-
       - name: Install R dependencies
         run: |
           Rscript -e "
-            pkgs <- c('knitr', 'rmarkdown', 'quarto', 'magick', 'exifr', 'glue', 'lubridate', 'stringr', 'cli', 'fs', 'yesno', 'rstudioapi')
+            pkgs <- c('knitr', 'rmarkdown', 'quarto', 'glue', 'lubridate', 'stringr', 'cli', 'fs')
             install.packages(pkgs, repos = 'https://cran.r-project.org', dependencies = TRUE)
             missing <- pkgs[!sapply(pkgs, requireNamespace, quietly = TRUE)]
             if (length(missing) > 0) stop(paste('Failed to install packages:', paste(missing, collapse = ', ')))

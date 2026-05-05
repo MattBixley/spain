@@ -2,7 +2,6 @@
 title: "Gallery"
 title-block-banner: true
 page-layout: full
-freeze: true
 lightbox: auto
 echo: false
 ---
