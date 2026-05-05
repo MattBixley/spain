@@ -66,7 +66,9 @@ echo: false
 ::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));grid-gap: 1em;"}
 ![Onyr](gallery/IMG_3531.jpg){group="girona" fig-align="center"}
 
-![Caputxins Fort](gallery/IMG_5323.jpg){group="girona" ![Caputxins Fort](gallery/IMG_5325.jpg){group="girona" fig-align="center"}
+![Caputxins Fort](gallery/IMG_5323.jpg){group="girona" fig-align="center"}
+
+![Caputxins Fort](gallery/IMG_5325.jpg){group="girona" fig-align="center"}
 
 ![Caputxins Fort](gallery/IMG_5326.jpg){group="girona" fig-align="center"}
 
