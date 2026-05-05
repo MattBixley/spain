@@ -33,7 +33,13 @@ jobs:
 
       - name: Install R dependencies
         run: |
-          Rscript -e "install.packages(c('knitr', 'rmarkdown', 'quarto', 'magick', 'exifr', 'glue', 'lubridate', 'stringr', 'cli', 'fs', 'yesno', 'rstudioapi'), repos = 'https://cran.r-project.org')"
+          Rscript -e "
+            pkgs <- c('knitr', 'rmarkdown', 'quarto', 'magick', 'exifr', 'glue', 'lubridate', 'stringr', 'cli', 'fs', 'yesno', 'rstudioapi')
+            install.packages(pkgs, repos = 'https://cran.r-project.org', dependencies = TRUE)
+            missing <- pkgs[!sapply(pkgs, requireNamespace, quietly = TRUE)]
+            if (length(missing) > 0) stop(paste('Failed to install packages:', paste(missing, collapse = ', ')))
+            message('All packages installed successfully')
+          "
 
       - name: Render
         run: quarto render
