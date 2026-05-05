@@ -49,10 +49,11 @@ jobs:
 
       - name: Update gh-pages with rendered content
         run: |
-          # Remove all files except .git
-          find . -not -path './.git*' -not -path './docs*' -delete
-          # Copy rendered content
-          cp -r ../docs/* .
+          # Remove all files except .git and the rendered docs/
+          find . -mindepth 1 -not -path './.git*' -not -path './docs*' -delete
+          # Copy rendered content to root and remove the docs/ dir
+          cp -r docs/* .
+          rm -rf docs
           # Ensure .nojekyll exists
           touch .nojekyll
 
