@@ -14,3 +14,4 @@
 **/*.quarto_ipynb
 
 .claude/
+skills-lock.json
