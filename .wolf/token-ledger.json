@@ -2,16 +2,73 @@
   "version": 1,
   "created_at": "2026-05-07T21:00:37.248Z",
   "lifetime": {
-    "total_tokens_estimated": 0,
-    "total_reads": 0,
-    "total_writes": 0,
+    "total_tokens_estimated": 86,
+    "total_reads": 2,
+    "total_writes": 2,
     "total_sessions": 1,
-    "anatomy_hits": 0,
+    "anatomy_hits": 2,
     "anatomy_misses": 0,
     "repeated_reads_blocked": 0,
-    "estimated_savings_vs_bare_cli": 0
+    "estimated_savings_vs_bare_cli": 400
   },
-  "sessions": [],
+  "sessions": [
+    {
+      "id": "session-2026-05-08-1311",
+      "started": "2026-05-08T01:11:27.338Z",
+      "ended": "2026-05-08T01:15:20.954Z",
+      "reads": [
+        {
+          "file": "/mnt/c/Users/MattBixley/Code/spain/.gitignore",
+          "tokens_estimated": 35,
+          "was_repeated": false,
+          "anatomy_had_description": false
+        }
+      ],
+      "writes": [
+        {
+          "file": "/mnt/c/Users/MattBixley/Code/spain/.gitignore",
+          "tokens_estimated": 8,
+          "action": "edit"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 35,
+        "output_tokens_estimated": 8,
+        "reads_count": 1,
+        "writes_count": 1,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 1
+      }
+    },
+    {
+      "id": "session-2026-05-08-1311",
+      "started": "2026-05-08T01:11:27.338Z",
+      "ended": "2026-05-08T01:16:12.353Z",
+      "reads": [
+        {
+          "file": "/mnt/c/Users/MattBixley/Code/spain/.gitignore",
+          "tokens_estimated": 35,
+          "was_repeated": false,
+          "anatomy_had_description": false
+        }
+      ],
+      "writes": [
+        {
+          "file": "/mnt/c/Users/MattBixley/Code/spain/.gitignore",
+          "tokens_estimated": 8,
+          "action": "edit"
+        }
+      ],
+      "totals": {
+        "input_tokens_estimated": 35,
+        "output_tokens_estimated": 8,
+        "reads_count": 1,
+        "writes_count": 1,
+        "repeated_reads_blocked": 0,
+        "anatomy_lookups": 1
+      }
+    }
+  ],
   "daemon_usage": [],
   "waste_flags": [],
   "optimization_report": {
