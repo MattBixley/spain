@@ -20,7 +20,6 @@ echo: false
   margin: 0;
   overflow: hidden;
   aspect-ratio: 1 / 1;
-  position: relative;
 }
 
 .insta-grid p {
@@ -44,22 +43,7 @@ echo: false
 }
 
 .insta-grid .figure-caption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 1.5rem 0.6rem 0.5rem;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.72));
-  color: #fff;
-  font-size: 0.8rem;
-  text-align: center;
-  opacity: 0;
-  transition: opacity 0.25s ease;
-  pointer-events: none;
-}
-
-.insta-grid figure:hover .figure-caption {
-  opacity: 1;
+  display: none;
 }
 
 @media (max-width: 600px) {
