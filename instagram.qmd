@@ -1,0 +1,70 @@
+---
+title: "Instagram"
+title-block-banner: true
+page-layout: full
+lightbox: auto
+echo: false
+---
+
+```{=html}
+<style>
+.insta-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3px;
+  margin-top: 1rem;
+}
+
+.insta-grid figure {
+  margin: 0;
+  overflow: hidden;
+  aspect-ratio: 1 / 1;
+  position: relative;
+}
+
+.insta-grid figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+  cursor: pointer;
+}
+
+.insta-grid figure:hover img {
+  transform: scale(1.06);
+  opacity: 0.75;
+}
+
+.insta-grid .figure-caption {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .insta-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+</style>
+```
+
+```{r}
+#| results: asis
+
+photos <- list.files("instagram", pattern = "(?i)\\.(jpg|jpeg|png|webp)$",
+                     perl = TRUE, full.names = TRUE)
+
+if (length(photos) > 0) {
+  # sort newest first by file modification time
+  photos <- photos[order(file.mtime(photos), decreasing = TRUE)]
+  photos <- basename(photos)
+
+  cat('::: {.insta-grid}\n\n')
+  for (p in photos) {
+    cat(sprintf('![](instagram/%s){group="insta"}\n\n', p))
+  }
+  cat(':::\n')
+} else {
+  cat('*No photos yet — drop images into the `instagram/` folder and re-render.*\n')
+}
+```

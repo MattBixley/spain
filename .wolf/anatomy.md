@@ -14,6 +14,7 @@
 - `CLAUDE.md` — OpenWolf (~57 tok)
 - `custom.scss` — Styles: 1 rules (~274 tok)
 - `gallery.qmd` (~767 tok)
+- `instagram.qmd` — Instagram-style 3-col auto-discover gallery; reads all images from `instagram/` dir at render time (~300 tok)
 - `index.qmd` (~185 tok)
 - `LICENSE` — Project license (~285 tok)
 - `maps.qmd` (~785 tok)

@@ -10,3 +10,4 @@
 | 13:15 | Edited .gitignore | 1→2 lines | ~7 |
 | 13:15 | Session end: 1 writes across 1 files (.gitignore) | 1 reads | ~43 tok |
 | 13:16 | Session end: 1 writes across 1 files (.gitignore) | 1 reads | ~43 tok |
+| 11:30 | created instagram.qmd auto-discover gallery + instagram/ dir + navbar entry | instagram.qmd, _quarto.yml | done | ~800 |
