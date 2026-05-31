@@ -26,6 +26,9 @@ jobs:
         with:
           version: 1.8.25
 
+      - name: Generate instagram photo list
+        run: bash scripts/gen_instagram.sh
+
       - name: Render
         run: quarto render
 

@@ -1,7 +1,6 @@
 project:
   type: website
   output-dir: docs
-  pre-render: scripts/gen_instagram.sh
 
 website:
   title: "Adventures in Spain"
