@@ -9,7 +9,7 @@ OUTPUT="_instagram_photos.qmd"
   echo '::: {.insta-grid}'
   echo ''
 
-  files=$(find "$INSTAGRAM_DIR" -maxdepth 1 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) | sort)
+  files=$(find "$INSTAGRAM_DIR" -maxdepth 1 -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) -printf '%T@ %p\n' | sort -rn | awk '{print $2}')
 
   if [ -z "$files" ]; then
     echo '*No photos yet — drop images into `instagram/` and re-render.*'
