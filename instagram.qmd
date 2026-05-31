@@ -19,7 +19,6 @@ echo: false
   margin: 0;
   overflow: hidden;
   aspect-ratio: 1 / 1;
-  position: relative;
 }
 
 .insta-grid figure img {
@@ -48,23 +47,4 @@ echo: false
 </style>
 ```
 
-```{r}
-#| results: asis
-
-photos <- list.files("instagram", pattern = "(?i)\\.(jpg|jpeg|png|webp)$",
-                     perl = TRUE, full.names = TRUE)
-
-if (length(photos) > 0) {
-  # sort newest first by file modification time
-  photos <- photos[order(file.mtime(photos), decreasing = TRUE)]
-  photos <- basename(photos)
-
-  cat('::: {.insta-grid}\n\n')
-  for (p in photos) {
-    cat(sprintf('![](instagram/%s){group="insta"}\n\n', p))
-  }
-  cat(':::\n')
-} else {
-  cat('*No photos yet — drop images into the `instagram/` folder and re-render.*\n')
-}
-```
+{{< include _instagram_photos.qmd >}}
