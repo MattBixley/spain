@@ -16,7 +16,8 @@ OUTPUT="_instagram_photos.qmd"
   else
     for f in $files; do
       filename=$(basename "$f")
-      echo "![](instagram/${filename}){group=\"insta\"}"
+      caption="${filename%.*}"
+      echo "![${caption}](instagram/${filename}){group=\"insta\"}"
       echo ''
     done
   fi
